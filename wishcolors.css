@@ -1,0 +1,21 @@
+#background {
+    background-color: #0da5b9;}
+
+.headers {
+    text-align: center;
+    text-transform: uppercase;
+    color: #2c05d8;
+}
+.lists{
+    text-align: center;
+    direction: ltr;
+    color: #4b005e;
+}
+.intro{
+    text-align: center;
+    text-indent: 20px;
+    color: #4b005e;
+    font-size: 25px;
+}
+.offshade{
+    background-color: #0889c5}
